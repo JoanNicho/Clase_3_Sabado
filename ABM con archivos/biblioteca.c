@@ -8,6 +8,7 @@
 char menu()
 {
     char c;
+	
     system("cls");
     printf("MENU\n1. ALTA\n2. LISTAR\n3. BAJA\n4. MODIFICAR\n5. MAYOR PROMEDIO\n6. LISTADO DE ALUMNOS\n7. SALIR\n");
     printf("Elija una opcion: ");
