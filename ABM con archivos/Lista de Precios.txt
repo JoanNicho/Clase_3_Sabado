@@ -1,0 +1,6 @@
+Listado de Alumnos
+
+
+Legajo    Nombre     Promedio 
+100	Ceron Victoria	7.00
+212	Gomez Pedro	6.50

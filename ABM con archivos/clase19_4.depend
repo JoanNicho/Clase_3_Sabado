@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1495638099 source:x:\german\archivos\clase19_4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1495638099 source:c:\users\alumno\desktop\clase19_4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1559396302 source:c:\users\alumno\desktop\abm con archivos\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"biblioteca.h"
+
+1559396267 c:\users\alumno\desktop\abm con archivos\biblioteca.h
+
+1559398198 source:c:\users\alumno\desktop\abm con archivos\biblioteca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"biblioteca.h"
+
